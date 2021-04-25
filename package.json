@@ -1,6 +1,6 @@
 {
   "name": "node-sdm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ntag424 sun message validation and encryption",
   "main": "sun.js",
   "directories": {
