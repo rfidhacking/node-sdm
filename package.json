@@ -1,0 +1,31 @@
+{
+  "name": "node-sdm",
+  "version": "1.0.0",
+  "description": "Ntag424 sun message validation and encryption",
+  "main": "sun.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/verify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfidhacking/node-sdm.git"
+  },
+  "keywords": [
+    "ntag424",
+    "sun",
+    "secure",
+    "ndef"
+  ],
+  "author": "rfidhacking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rfidhacking/node-sdm/issues"
+  },
+  "homepage": "https://github.com/rfidhacking/node-sdm#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
