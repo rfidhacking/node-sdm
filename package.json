@@ -1,6 +1,6 @@
 {
   "name": "node-sdm",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Ntag424 sun message validation and encryption",
   "main": "sun.js",
   "directories": {
@@ -24,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/rfidhacking/node-sdm/issues"
   },
-  "homepage": "https://github.com/rfidhacking/node-sdm#readme",
-  "dependencies": {
-    "crypto": "^1.0.1"
-  }
+  "homepage": "https://github.com/rfidhacking/node-sdm#readme"
 }
