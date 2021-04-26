@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/rfidhacking/node-sdm/issues"
   },
-  "homepage": "https://github.com/rfidhacking/node-sdm#readme"
+  "homepage": "https://github.com/rfidhacking/node-sdm#readme",
+  "dependencies": {
+    "node-aes-cmac": "^0.1.1"
+  }
 }
